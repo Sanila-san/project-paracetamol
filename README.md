@@ -25,4 +25,8 @@ Brief workflow:
 
 Materials used in the calibration substrate description are gold for conductors and alumina for the substrate. Measurement precision for geometric measurements is typical for Olympus LEXT OLS 5000 microscope and pretty close to plus-minus 1 um.
 
+## Copyright
+Code, debugging, docs (c) Alexander Savochkin, MSc, VNIIFTRI
+Important part of the code (c) Aleksandr Savin, D.Sc., TUSUR
+
 > Written with [StackEdit](https://stackedit.io/).
