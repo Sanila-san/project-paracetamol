@@ -27,6 +27,7 @@ Materials used in the calibration substrate description are gold for conductors 
 
 ## Copyright
 Code, debugging, docs (c) Alexander Savochkin, MSc, VNIIFTRI
+
 Important part of the code (c) Aleksandr Savin, D.Sc., TUSUR
 
 > Written with [StackEdit](https://stackedit.io/).
